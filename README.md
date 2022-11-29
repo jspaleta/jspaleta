@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+My voice is my password, verify <a rel="me" href="https://mastodon.social/@jspaleta">me</a>.
+
 <!--
+
+
 **jspaleta/jspaleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
